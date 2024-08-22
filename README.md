@@ -19,3 +19,7 @@ le protocole `HTTPS` est extenssible car de nouvelles fonctionnalité peuvent y 
 voici la decomposition d'une `URL`
 # Codes Status
 1xx réponse informationnelle, 2xx succès, 3xx redirection, 4xx erreur client et 5xx erreur serveur.
+# Négociation de contenu
+Lorsqu'un client souhaite obtenir une ressource, il la demande via une URL. Le serveur utilise alors cette URL pour choisir l'une des variantes disponibles. Chaque variante est appelée une représentation. Le serveur renvoie alors une représentation donnée au client.
+![image](https://github.com/user-attachments/assets/cf5e0842-cae6-4962-989d-4cf7ce5f62e0) \
+# Installation Apache & configuration
