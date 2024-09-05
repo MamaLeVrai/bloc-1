@@ -1,0 +1,19 @@
+body {
+    background-color: paleturquoise;
+    color:black;
+    font-family : 'Trebuchet MS', sans-serif;
+}
+
+.BoxCentre {
+    background-color: paleturquoise;
+    text-align: justify;
+    margin-left:5%;
+}
+
+.Orange {
+    color:lightcoral;
+}
+
+.box {
+    background-color: turquoise;
+}
