@@ -7,7 +7,7 @@
 nav{
     width: 100%;
     margin: 0 auto;
-    background-color: white; position: sticky;
+    background-color: rgb(255, 0, 0); position: sticky;
     top: Opx;
 }
 
@@ -39,8 +39,8 @@ nav a:hover{
 }
 .sous{
     display: none;
-    box-shadow: 0px 1px 2px #CCC;
-    background-color: white;
+    box-shadow: 0px 1px 2px #a85a5a;
+    background-color: rgb(117, 0, 0);
 }
 nav > ul li:hover .sous{
     display: block;
@@ -64,8 +64,8 @@ nav > ul li:hover .sous{
 }
 .sous{
     display: none;
-    box-shadow: 0px 1px 2px #CCC;
-    background-color: white;
+    box-shadow: 0px 1px 2px #000000;
+    background-color: rgb(255, 0, 0);
     position: absolute;
     width: 100%;
     z-index: 1000;
